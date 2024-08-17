@@ -37,6 +37,7 @@ Power management:
 - Charging time: 6 hours and 15 minutes. (Yellow LED (near pins): Charging; Green LED (near screw): Charge complete). 
 - Autonomy: 11 days 4 hours and 40 minutes. ( SLEEP_TIME = 5m ).
 
-![IMG_2259](https://github.com/user-attachments/assets/81306cf2-93c1-4d25-b090-27cabb6a0408)
-![IMG_1986](https://github.com/user-attachments/assets/09794eaf-fb2d-4d55-a748-8d1918120da7)
+![IMG_2259](https://github.com/user-attachments/assets/a2cb5548-ab53-4d6d-bf6d-7d8a5aafc315)
+![IMG_1986](https://github.com/user-attachments/assets/8c7e6fed-1b8d-405b-a2c3-6f99d8559f20)
+
 
